@@ -1,2 +1,2 @@
 # Dice-Roller-Compose
-This is the android codelab of `Basic android kotlin compose` course where I'll create a `Dice Roller App` that lets the user tap `Button` to roll a dice and shows the outcome as `Image` on the screen.
+This is the android codelab of <a href="https://developer.android.com/courses/android-basics-compose/course"> Basic android kotlin compose </a> course where I'll create a <a href="https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app">Dice Roller App</a> that lets the user tap `Button` to roll a dice and shows the outcome as `Image` on the screen.
